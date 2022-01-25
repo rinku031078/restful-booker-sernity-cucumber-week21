@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking Functionality","Verify user should be able to access booking","SUCCESS","2022-01-25T23:09:37.020Z[Europe/London]","0.0","11.04"
+"Booking Functionality","Create new booking and verify that booking is done","SUCCESS","2022-01-25T23:09:52.456Z[Europe/London]","0.0","3.06"
+"Booking Functionality","Update booking and verify booking is updated","SUCCESS","2022-01-25T23:09:56.274Z[Europe/London]","0.0","1.35"
+"Booking Functionality","Delete the booking data and verify its delete from database","SUCCESS","2022-01-25T23:09:57.893Z[Europe/London]","0.0","0.95"
